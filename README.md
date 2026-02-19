@@ -1,5 +1,6 @@
 # App de Organização de Finanças Pessoais da Valeska com Vibe Coding
-PRD refinado na Manus.
+
+Um aplicativo de gestão de finanças pessoais inovador que combina inteligência artificial com uma interface conversacional intuitiva, elaborado a partie de PRD refinado na Manus. Presta assistência no Controle de seus gastos e receitas através de conversas naturais em português brasileiro, recebe categorização automática de transações e acompanha suas metas financeiras com feedback inteligente.
 
 ---
 
