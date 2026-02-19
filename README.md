@@ -1,8 +1,9 @@
 # App de Organização de Finanças Pessoais da Valeska com Vibe Coding
-PRD refinado na Manus:
+PRD refinado na Manus.
 
-*** markdown 
-# Documento de Requisitos de Produto (PRD) - App de Organização de Finanças Pessoais
+---
+
+## Documento de Requisitos de Produto (PRD) - App de Organização de Finanças Pessoais
 
 ## 1. Introdução
 
@@ -51,7 +52,11 @@ Para otimizar a geração no Lovable, é crucial fornecer informações que ajud
 
 Este PRD revisado oferece uma base sólida para o desenvolvimento do aplicativo, com informações mais detalhadas e direcionadas para a utilização eficaz de ferramentas como o Lovable, aproveitando o conceito de Vibe Coding para uma geração de código mais alinhada com a visão do produto.
 ***
-Interações com o Lovable:
+
+
+## Interações com o Lovable
+
+---
 
 ## Crie um APP de Finanças pessoais com base no seguinte PRD (Product Requirement Document) {PRD}
 
@@ -64,7 +69,11 @@ Interações com o Lovable:
 https://photos.app.goo.gl/USwrZAyL1TvTDTg59
 
 ***
+
+
 ## Funcionalidades do App de Finanças Pessoais
+
+---
 
 ### Chat Conversacional Inteligente
 
@@ -128,7 +137,10 @@ https://photos.app.goo.gl/USwrZAyL1TvTDTg59
 - Modo escuro/claro e interface responsiva (desktop/tablet/mobile).
 
 ***
+
 ## Reflexão 
+
+---
 
 ### O que funcionou bem?  
 
