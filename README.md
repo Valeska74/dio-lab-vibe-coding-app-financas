@@ -66,7 +66,8 @@ Este PRD revisado oferece uma base sólida para o desenvolvimento do aplicativo,
 
 ### Resultado Final no Lovable: ([https://wordy-wallet-wise.lovable.app]
 
-https://photos.app.goo.gl/USwrZAyL1TvTDTg59
+<img width="714" height="2013" alt="Image" src="https://github.com/user-attachments/assets/4f09bcf1-c869-44a6-ab05-156abb25509f" />
+<img width="727" height="1980" alt="Image" src="https://github.com/user-attachments/assets/e7046d3a-139b-46b1-9fc8-3b28f9b65894" />
 
 ***
 
